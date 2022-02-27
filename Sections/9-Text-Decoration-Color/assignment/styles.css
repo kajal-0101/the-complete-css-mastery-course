@@ -1,0 +1,17 @@
+.first-span {
+	color: #ff0080;
+	text-decoration-line: overline;
+	text-decoration-color: #00ff80;
+}
+
+.second-span {
+	color: #002fff;
+	text-decoration-line: line-through;
+	text-decoration-color: #00fff2;
+}
+
+.third-span {
+	color: #b700ff;
+	text-decoration-line: underline;
+	text-decoration-color: #fffb00;
+}
