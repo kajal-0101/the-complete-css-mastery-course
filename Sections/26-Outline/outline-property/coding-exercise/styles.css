@@ -1,0 +1,6 @@
+img {
+	width: 200px;
+	height: 200px;
+	outline: 7px #fffb00 double;
+	border: 8px dashed #33ff00;
+}

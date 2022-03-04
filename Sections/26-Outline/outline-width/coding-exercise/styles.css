@@ -1,0 +1,8 @@
+div {
+	width: 200px;
+	height: 200px;
+	background-color: #ffab4c;
+	border: 8px dashed #ff0080;
+	outline-style: solid;	
+	outline-width: 12px;
+}
