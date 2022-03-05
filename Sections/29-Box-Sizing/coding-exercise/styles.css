@@ -1,0 +1,17 @@
+.first-div {
+	width: 200px;
+	height: 200px;
+	border: 10px #ffe927 solid;
+	background-color: #ef476f;
+	padding: 20px;
+	box-sizing: content-box;
+}
+
+.second-div {
+	width: 200px;
+	height: 200px;
+	border: 10px #073b4c solid;
+	background-color: #06d6a0;
+	padding: 20px;
+	box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+.img-one{
+	width: 200px;
+	height: 200px;
+	border: #ff0256 20px groove;
+	margin: 20px;
+}
+
+.img-two{
+	width: 200px;
+	height: 200px;
+	border: #9a02ff 20px ridge;
+	margin: 20px;
+}
