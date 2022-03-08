@@ -1,0 +1,13 @@
+.first-img {
+	width: 200px;
+	height: 200px;
+}
+
+.second-img {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	z-index: -1;
+}

@@ -17,7 +17,17 @@ The CSS stands for **Cascading Style Sheet**
 * CSS Units
 * Border
 * Outline
-
+* Border-Radius
+* Padding
+* Box-Sizing
+* Margin
+* Box-Modal
+* Pseudo Element
+* Display
+* Background-Image
+* Position
+* Z-Index
+* Transform
 
 
 

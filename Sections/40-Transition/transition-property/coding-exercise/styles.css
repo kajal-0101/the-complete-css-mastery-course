@@ -1,0 +1,22 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+h1 {
+  font-size: 2rem;
+  color: yellow;
+  background-color: black;
+  font-family: "Roboto";
+  text-align: center;
+  transition-duration: 1s, 1s;
+  transition-property: transition;
+
+}
+
+
+h1:hover{
+	background-color: yellow;
+	color: black;
+	font-family: "Roboto";
+  	text-align: center;
+  	font-size: 2rem;
+}
