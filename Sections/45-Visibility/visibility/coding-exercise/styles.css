@@ -1,0 +1,10 @@
+div {
+  border: 15px dotted darkblue;
+  display: inline-block;
+  visibility: hidden;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}

@@ -1,0 +1,20 @@
+div {
+	width: 300px;
+	height: 300px;
+	position: relative;
+	opacity: 0.5;
+	overflow: hidden;
+}
+
+button {
+	background-image: linear-gradient(to bottom right, yellow, green);
+	border-radius: 50px;
+	text-transform: uppercase;
+	position: absolute;
+	text-align: center;
+	display: inline-block;
+	top: 120px;
+	left: 75px;
+	width: 50%;
+	height: 50px;
+}

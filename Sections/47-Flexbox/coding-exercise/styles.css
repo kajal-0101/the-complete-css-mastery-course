@@ -1,0 +1,12 @@
+div {
+  width: 700px;
+  height: 700px;
+  background-color: #bdffd1;
+  display: flex;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
