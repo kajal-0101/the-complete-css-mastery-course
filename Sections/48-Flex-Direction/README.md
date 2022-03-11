@@ -1,4 +1,5 @@
 ## flex-direction
+* part of the flex box
 * controls the direction of the main-axis, used to define the direction of all the flex-items
 * left to right = default
 * To change the direction, follwoing syntax must be followed:
